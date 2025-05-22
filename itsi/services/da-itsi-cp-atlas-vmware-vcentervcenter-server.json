@@ -315,5 +315,5 @@
     ],
     "team_id": "default_itsi_security_group",
     "title": "vCenter Server",
-    "version": "0.0.1"
+    "version": "1.0.0"
 }
